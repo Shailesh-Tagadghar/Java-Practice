@@ -1,0 +1,6 @@
+Types of Inheritance:-
+
+1. Single  :- Animals => Cat
+2. Multiple :- Father => Girl , Boy (childs)
+3. Hierarchical :- Food => Indian , Mexica, American (One parent class and so many childs)
+4. Hybrid :-
